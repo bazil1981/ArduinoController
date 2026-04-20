@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Контроллер arduino</string>
+    <string name="ip_text">IP адрес сервера</string>
+    <string name="port_text">Порт</string>
+    <string name="led_off">Выключить диод</string>
+    <string name="get_status">Статус</string>
+    <string name="pwm_value_0">Значение PWD</string>
+    <string name="logs_n">Лог</string>
+    <string name="auto_reconnect_on_connection_loss">Автоматическое переподключение</string>
+    <string name="connect">Подключить</string>
+    <string name="not_connected">Не подключен</string>
+    <string name="led_on">Включить диод</string>
+    <string name="led">LED</string>
+    <string name="tab_control">Управление</string>
+    <string name="tab_settings">Настройки</string>
+    <string name="status_led_on">Статус: Диод включен</string>
+    <string name="status_led_off">Статус: Диод выключен</string>
+    <string name="logs_disconnected">Отключен</string>
+    <string name="logs_response">Ответ сервера: %1$s</string>
+    <string name="status_connected_to">Подключен к %1$s</string>
+    <string name="status_disconnected">Отключен</string>
+    <string name="save_settings">Сохранить настройки</string>
+    <string name="pwm_value">Значение PWM: %1$</string>
+</resources>
